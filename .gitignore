@@ -1,0 +1,10 @@
+
+*.exe
+*.o
+*.obj
+bin/
+obj/
+*.layout
+*.depend
+.DS_Store
+Thumbs.db
